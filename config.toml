@@ -2,3 +2,28 @@ languageCode = "en-us"
 title = "demize"
 baseURL = "https://demize.unstable.systems/"
 theme = "lithium"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    page = "/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/demize"
+[[menu.main]]
+    name = "Twitter"
+    url = "/twitter/"
+[[menu.main]]
+    name = "Keybase"
+    url = "https://keybase.io/demize"
+[params]
+    description = "demize posts stuff here sometimes"
+
+    [params.logo]
+    url = "gravatar50x50.png"
+    width = 50
+    height = 50
+    alt = "Gravatar, probably just an identicon"
