@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "demize"
 baseURL = "https://demize.unstable.systems/"
-theme = "lithium"
+theme = "liquorice"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -21,6 +21,7 @@ theme = "lithium"
     url = "https://keybase.io/demize"
 [params]
     description = "demize posts stuff here sometimes"
+    author = "demize"
 
     [params.logo]
     url = "gravatar50x50.png"
