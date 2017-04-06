@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "demize"
+baseURL = "https://demize.unstable.systems/"
+theme = "lithium"
