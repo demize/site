@@ -23,3 +23,7 @@ There's definitely more to me than that, though. This is much less ordered:
 11. Most of the time I sit around on the bird website or the alien website and waste time. I should replace some of that with sitting around reading. I have literal piles of books to read.
 
 If for some reason you need to get in touch with me, you can find me on Twitter. If for some ungodly reason you want to send me an *email* then you can find my PGP key on Keybase and email me. My email address is the same as the URL for this site if you were interpreting an SOA record.
+
+## Other notes
+
+The name of this site is a lyric from the Enter Shikari song *Redshift*. For some reason I feel like it's appropriate here?
