@@ -8,3 +8,5 @@ title = "Switching to Caddy"
 +++
 
 Well, I just switched this site over to Caddy to make publishing things to it a bit easier. It can now receive webhooks from Github and automatically post things... hopefully. We'll see.
+
+**Update, shortly after posting this:** It works! \o/
