@@ -26,4 +26,4 @@ This is my more recent alt. It originally had another name and was completely se
 
 As was hinted to there, this is where the more personal stuff that I want to talk about but don't want to have much of an audience goes. It's mostly just for venting since not much happens in my life, but when stuff does then this is where I want to talk about it.
 
-If I follow your alt, I'll let you follow this account if you request. If we're friends then feel free to request but know that I may not accept. Don't take it personally! Even *I* don't know the actual criteria here, and if you're considering requesting then we're probably close enough that I wouldn't mind (even if I don't accept). 
+If I follow your alt, I'll let you follow this account if you request. If we're friends then feel free to request but know that I may not accept. Don't take it personally! Even *I* don't know the actual criteria here. I don't mind requests, even if I don't accept it!
