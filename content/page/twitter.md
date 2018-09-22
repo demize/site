@@ -27,3 +27,10 @@ This is my more recent alt. It originally had another name and was completely se
 As was hinted to there, this is where the more personal stuff that I want to talk about but don't want to have much of an audience goes. It's mostly just for venting since not much happens in my life, but when stuff does then this is where I want to talk about it.
 
 If I follow your alt, I'll let you follow this account if you request. If we're friends then feel free to request but know that I may not accept. Don't take it personally! Even *I* don't know the actual criteria here. I don't mind requests, even if I don't accept it!
+
+## [demize@kawaii.social](https://kawaii.social/@demize)
+
+I also have an account on the Fediverse! You can think of this account 
+as somewhere between my main twitter and @demizeinjail. I currently 
+don't use it much, and it's all public right now, but both those 
+statements are subject to change.
