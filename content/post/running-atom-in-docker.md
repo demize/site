@@ -92,6 +92,13 @@ didn't actually work for me, so here's what I found works:
 6. That's it! Atom should open and you should be able to browse your home
    folder. When you close Atom, it will stop the Docker container. To relaunch
    Atom, you'll only need to run `docker start atom`.
+7. (Added the day after I published this post) If you reboot, then your X server
+   shuts down, and if your X server shuts down, the access control changes you
+   made with `xhost` are lost. To solve that, either re-run
+   `xhost +SI:localuser:$USER` every time you reboot, or make it happen when X
+   starts: `echo "xhost +SI:localuser:$USER" >> ~/.xsessionrc`. This still isn't
+   a big security concern; it only allows your user, with your credentials, to
+   connect to the X server.
 
 This is, as far as I can tell, probably the most secure way to run this Docker
 container. You don't open your X11 server up to connections from anywhere, which
