@@ -1,7 +1,7 @@
 ---
 title: "Computers Are Bad: Recovering Bitlocker encrypted fixed drives with only the OS drive's recovery key when the system won't boot"
 date: 2018-09-24T16:03:42-04:00
-draft: true
+draft: false
 ---
 
 So, your OS drive got corrupted and won't boot, and you have important data on
