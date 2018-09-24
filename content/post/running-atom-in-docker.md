@@ -56,8 +56,8 @@ didn't actually work for me, so here's what I found works:
       ```
 
       This is necessary for Docker to work at all; otherwise it will error out.
-4. Pull the Docker container: `docker pull jamesnetherton/docker-atom-editor`.
-5. Create and start the Docker container:
+5. Pull the Docker container: `docker pull jamesnetherton/docker-atom-editor`.
+6. Create and start the Docker container:
    ```
    docker run -d --name atom \
              --user=$(id -u) \
@@ -89,14 +89,14 @@ didn't actually work for me, so here's what I found works:
      and do some other mapping to be able to open files and store your config
      (and the command in the README might require some fudging of permissions if
      you aren't user 1000).
-6. That's it! Atom should open and you should be able to browse your home
+7. That's it! Atom should open and you should be able to browse your home
    folder. When you close Atom, it will stop the Docker container. To relaunch
    Atom, you'll only need to run `docker start atom`.
-7. (Added the day after I published this post) If you reboot, then your X server
+8. (Added the day after I published this post) If you reboot, then your X server
    shuts down, and if your X server shuts down, the access control changes you
    made with `xhost` are lost. To solve that, either re-run
    `xhost +SI:localuser:$USER` every time you reboot, or make it happen when X
-   starts: `echo "xhost +SI:localuser:$USER" >> ~/.xsessionrc`. This still isn't
+   starts: `echo "xhost +SI:localuser:$USER" >> ~/.xprofile`. This still isn't
    a big security concern; it only allows your user, with your credentials, to
    connect to the X server.
 
