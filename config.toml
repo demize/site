@@ -1,7 +1,7 @@
 languageCode = "en-us"
-title = "we separate we fragment"
+title = "demize's site"
 baseURL = "https://demize.unstable.systems/"
-theme = "liquorice"
+theme = "indigo"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -22,9 +22,4 @@ theme = "liquorice"
 [params]
     description = "demize posts stuff here sometimes"
     author = "demize"
-
-    [params.logo]
-    url = "gravatar50x50.png"
-    width = 50
-    height = 50
-    alt = "Gravatar, probably just an identicon"
+    Avatar = "images/avatar.jpg"
