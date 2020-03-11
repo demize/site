@@ -22,4 +22,4 @@ theme = "indigo"
 [params]
     description = "demize posts stuff here sometimes"
     author = "demize"
-    Avatar = "images/avatar.jpg"
+    Avatar = "/images/avatar.jpg"
