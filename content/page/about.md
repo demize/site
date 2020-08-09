@@ -16,4 +16,4 @@ There's definitely more to me than that, though. This is all more or less true:
 11. I listen to a fair amount of music. My music tastes are pretty varied (check out my [Last.FM](https://www.last.fm/user/demize95) profile) but my top two bands/artists are Frank Turner and Enter Shikari.
 19. When I'm not working, I'm probably just using the bird website or the alien website. I should take a hint from myself a couple list items ago and pick up a book instead more often... I do have literal piles of books to get through!
 
-If you need to contact me, either use Twitter (@demize95) or one of the methods listed on my [contact page]({{< relref "contact" >}})..
+If you need to contact me, either use Twitter (@demize95) or one of the methods listed on my [contact page]({{< relref "contact" >}}).
