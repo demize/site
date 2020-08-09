@@ -14,8 +14,8 @@ theme = "indigo"
     name = "GitHub"
     url = "https://github.com/demize"
 [[menu.main]]
-    name = "Twitter"
-    url = "/twitter/"
+    name = "Contact"
+    url = "/contact/"
 [[menu.main]]
     name = "Keybase"
     url = "https://keybase.io/demize"
