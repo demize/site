@@ -23,8 +23,10 @@ they will combine with the beanboozled incentive (so long as they're above $10),
     1. Stop doing tasks until the next meeting
     2. Stop trying to kill people until the next meeting
     3. Don't say anything during the next meeting.
+    4. Immediately shapeshift to the next crewmate I see / jump into the next vent I see (only applicable as Shapeshifter / Engineer)
 - $25 - any one of:
     1. Don't do any tasks for the rest of the current round.
     2. No kills for the rest of the current round.
     3. Don't talk for the rest of the current round.
+    4. Kill the next crewmate I see (after kill cooldown, if applicable)
 - $50 - Call an emergency meeting as soon as possible and announce that I'm the impostor. Whether I am or not.
