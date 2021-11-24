@@ -1,19 +1,19 @@
 ---
 title: "SGB21 Among Us Incentives"
-date: 2021-11-21T16:20:00-05:00
+date: 2021-11-24T18:00:00-05:00
 slug: "sgb21-mogus-incentives"
 ---
 
 Incentives for demize for Among Us:
 
-## Any donation above $5
+## Any donation above $10
 
 Stop whatever I'm doing and eat a beanboozled bean.
 
 ## Donations directed towards demize
 
 These donations must specifically mention me in the donation message, along with which one you want me to do. While
-they will combine with the beanboozled incentive, they will not combine with any other incentives.
+they will combine with the beanboozled incentive (so long as they're above $10), they will not combine with any other incentives.
 
 - $5 - any one of:
     1. Stop doing tasks for one minute or until the next meeting (whichever comes first)
