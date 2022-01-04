@@ -6,8 +6,11 @@ slug: "contact"
 
 I do most of my communication on Twitter and Discord these days, so that's usually the easiest way to contact me. But here's a more extensive list:
 
-- Twitter: [@demize95](https://twitter.com/demize95)
-- Discord: demize#0095
+- Twitter: [@demize95](https://twitter.com/demize95)  
+  This is my main account, where I occasionally post things, and where I mostly just like cute art.
+- Twitter alt: [@sadsakurako](https://twitter.com/sadsakurako)  
+  This is my personal account, where I'll discuss things I don't want to discuss as openly. Like it says in the bio, if I know you, I'll probably let you follow.
+- Discord: demize#0095  
 - Wire: demize
 - LINE: demize95
 - Signal uses my real phone number, so while it is an option, all of the above are preferred. Since I use an iPhone, iMessage is *also* an option, but again; please use a different one.
