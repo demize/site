@@ -1,7 +1,8 @@
 languageCode = "en-us"
 title = "demize's site"
 baseURL = "https://demize.unstable.systems/"
-theme = "indigo"
+theme = "beautifulhugo"
+enableGitInfo = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -22,4 +23,12 @@ theme = "indigo"
 [params]
     description = "demize posts stuff here sometimes"
     author = "demize"
-    Avatar = "/images/avatar.jpg"
+    logo = "/images/avatar.png"
+    enableGitInfo = true
+    commit = "https://github.com/demize/site/tree/"
+
+[Author]
+name = "demize"
+github = "demize"
+twitter = "demize95"
+mastodon = "unstable.systems/@demize"

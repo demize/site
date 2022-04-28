@@ -1,4 +1,4 @@
 
-[submodule "themes/indigo"]
-	path = themes/indigo
-	url = https://github.com/AngeloStavrow/indigo
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = git@github.com:demize/beautifulhugo.git

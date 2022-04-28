@@ -1,12 +1,13 @@
 ---
 title: "Contact Info"
-date: 2020-08-09T14:24:42-04:00
+date: 2022-04-14T12:30:00-04:00
 slug: "contact"
 ---
 
 I do most of my communication on Twitter and Discord these days, so that's usually the easiest way to contact me. But here's a more extensive list:
 
 - Twitter: [@demize95](https://twitter.com/demize95)
+- Mastodon: <a rel="me" href="https://mastodon.social/@demize">@demize</a> on mastodon.social
 - Discord: demize#0095
 - Wire: demize
 - LINE: demize95
