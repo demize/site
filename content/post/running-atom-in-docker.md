@@ -70,25 +70,25 @@ didn't actually work for me, so here's what I found works:
              --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
              --volume="/dev/shm:/dev/shm" \
              jamesnetherton/docker-atom-editor
-  ```
-  This does a few things that the command in the README doesn't:
+   ```
+   This does a few things that the command in the README doesn't:
 
-  1. Override the user specified in the Dockerfile to be yourself
-  2. Mount your home directory in the container so that you can edit all your
-     files (and keep the Atom config files persistent). You can change what you
-     mount here, but keep if you do want to further limit what you mount, make
-     sure you at least mount your .atom directory to `$HOME/.atom`, otherwise
-     you'll lose configuration persistence. In my situation, I'm fine mapping my
-     entire home directory since I have nothing sensitive on this laptop, but if
-     you have your own concerns this is the most flexible part of the setup.
-  3. Mount the group/passwd/shadow/X11 files from your system to the container,
-     in order for a) permissions to make sense and b) allow step 3 to work (per
-     [the Open Source Robotics Foundation](http://wiki.ros.org/docker/Tutorials/GUI)).
+      1. Override the user specified in the Dockerfile to be yourself
+      2. Mount your home directory in the container so that you can edit all your
+      files (and keep the Atom config files persistent). You can change what you
+      mount here, but keep if you do want to further limit what you mount, make
+      sure you at least mount your .atom directory to `$HOME/.atom`, otherwise
+      you'll lose configuration persistence. In my situation, I'm fine mapping my
+      entire home directory since I have nothing sensitive on this laptop, but if
+      you have your own concerns this is the most flexible part of the setup.
+      3. Mount the group/passwd/shadow/X11 files from your system to the container,
+      in order for a) permissions to make sense and b) allow step 3 to work (per
+      [the Open Source Robotics Foundation](http://wiki.ros.org/docker/Tutorials/GUI)).
 
-     The README works, but only if you turn off access control to your X server
-     and do some other mapping to be able to open files and store your config
-     (and the command in the README might require some fudging of permissions if
-     you aren't user 1000).
+   The README works, but only if you turn off access control to your X server
+   and do some other mapping to be able to open files and store your config
+   (and the command in the README might require some fudging of permissions if
+   you aren't user 1000).
 7. That's it! Atom should open and you should be able to browse your home
    folder. When you close Atom, it will stop the Docker container. To relaunch
    Atom, you'll only need to run `docker start atom`.
