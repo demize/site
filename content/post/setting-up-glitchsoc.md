@@ -59,7 +59,9 @@ As-is, streaming does not quite work. Mastodon binds to 127.0.0.1 inside the con
 
 ## Firewall stuff
 
-You may also want to prevent outside machines from directly communicating with your services. Rather than provide specific instructions for that, I'll link to [Jeff Geerling's](https://www.jeffgeerling.com/blog/2020/be-careful-docker-might-be-exposing-ports-world) post on the issue. You may prefer to use REJECT over DROP, but either option will work here--so long as you don't need to expose *any* ports from Docker to the internet.
+~~You may also want to prevent outside machines from directly communicating with your services. Rather than provide specific instructions for that, I'll link to [Jeff Geerling's](https://www.jeffgeerling.com/blog/2020/be-careful-docker-might-be-exposing-ports-world) post on the issue. You may prefer to use REJECT over DROP, but either option will work here--so long as you don't need to expose *any* ports from Docker to the internet.~~
+
+**Update:** Ignore the above for now; this actually turns out to cause some issues by blocking communication from the services outbound as well. I'll try to figure out a better approach.
 
 ## Web service health check
 
