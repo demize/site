@@ -14,4 +14,4 @@ I do most of my communication on Twitter and Discord these days, so that's usual
 - Wire: demize
 - LINE: demize95
 - Signal uses my real phone number, so while it is an option, all of the above are preferred. Since I use an iPhone, iMessage is *also* an option, but again; please use a different one.
-- Email is also an option, and this website is also an email address, if you replace the first dot with an at. My GPG key is 34dc11e9, and my email is hosted with ProtonMail, so it's pretty easy for me to receive encrypted messages if you should send me one.
+- Email is also an option, and this website is also an email address, if you replace the first dot with an at. It's currently hosted with Fastmail. My GPG key is 34dc11e9, if you need to encrypt messages to me--though I will note I'm not well-equipped to *decrypt* them.
