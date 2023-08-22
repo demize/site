@@ -1,3 +1,6 @@
 public/
 /server
 .hugo_build.lock
+
+# direnv files not to commit
+.direnv/
