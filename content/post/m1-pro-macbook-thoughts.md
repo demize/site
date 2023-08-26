@@ -26,7 +26,7 @@ To summarize: I am very impressed, and haven't run into any issues after a day o
 
 The hardware is excellent. Just from a build quality perspective, it's built like a brick, which is a good quality in a laptop (if you ask me). It's about as thick as the thickest point on my SL3:
 
-![Comparison between the MBP and SL3, MBP on the left](/images/mbp-sl3-comparison.jpg)
+{{<figure src=/images/mbp-sl3-comparison.jpg alt="Comparison between the MBP and SL3, MBP on the left">}}
 
 This makes it feel less like an ultrabook and more like a laptop, which is a good sign, because ultrabooks tend to trade performance for thinness. The Macbook is just a constant thickness throughout, but not too thick. Its design can be sort of hit or miss for people, but I'm a big fan of it.
 
