@@ -1,0 +1,18 @@
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    margin: 0.5em;
+    background-color: #e0f5ff;
+  }
+  
+  summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+    display: list-item;
+  }
+  
+  details[open] {
+    padding: 0.5em;
+  }

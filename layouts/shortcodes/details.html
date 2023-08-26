@@ -1,0 +1,8 @@
+<!-- (adapted from figure.html) count how many times we've called this shortcode; load the css if it's the first time -->
+{{- if not ($.Page.Scratch.Get "detailscount") }}<link rel="stylesheet" href="{{ "css/details.css" | absURL}}" />{{ end }}
+{{- $.Page.Scratch.Add "detailscount" 1 -}}
+
+<details>
+    <summary>{{ .Get "summary" | markdownify }}</summary>
+    {{ .Inner | markdownify }}
+</details>
