@@ -12,8 +12,6 @@ I do most of my communication on Mastodon and Discord these days, so that's usua
 - Discord: demize#0095 (or you can join my server, which I will refrain from linking here, but is on my Twitch page)
 - Cohost: I'm [demize](https://cohost.org/demize) on cohost, though I don't presently *use* Cohost. I'm listing this here anyway because Cohost is cool.
 - Twitch: Not really a contact method? but here anyway, [demize95](https://twitch.tv/demize95)
-- Twitter: [@demize95](https://twitter.com/demize95)  
-  I mostly just use this to keep up with friends who haven't moved to Mastodon, but also to like cute art. It's locked, and I don't anticipate accepting any new follows.
 - Wire: demize
 - LINE: demize95
 - Signal uses my real phone number, so while it is an option, all of the above are preferred. Since I use an iPhone, iMessage is *also* an option, but again; please use a different one.
