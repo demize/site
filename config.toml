@@ -20,14 +20,13 @@ enableGitInfo = true
 [[menu.main]]
     name = "Keybase"
     url = "https://keybase.io/demize"
-[params]
+[Params]
     description = "demize posts stuff here sometimes"
-    author = "demize"
     logo = "/images/avatar.png"
     enableGitInfo = true
     commit = "https://github.com/demize/site/tree/"
 
-[Author]
+[Params.author]
 name = "demize"
 github = "demize"
 twitter = "demize95"
