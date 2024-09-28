@@ -4,8 +4,6 @@ date: 2018-09-22T19:27:49-04:00
 description: "Quick guide for running Atom in Docker"
 ---
 
-## Introduction
-
 I discussed on Twitter a while ago one of the difficulties I'm having running
 the musl version of Void Linux: some applications just don't work on musl. Text
 editors, specifically. I normally use Sublime, but it being a proprietary editor

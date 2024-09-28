@@ -10,6 +10,8 @@ Sometimes, you post a rant on Mastodon at 3am that you end with "this should be 
 
 Well, this is that blog post.
 
+<!--more-->
+
 {{< toc >}}
 
 ## Introduction
